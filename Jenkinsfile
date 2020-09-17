@@ -1,3 +1,5 @@
+@library('shared-library@master') _
+
 pipeline{
 
       agent {
